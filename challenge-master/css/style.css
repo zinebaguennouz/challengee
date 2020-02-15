@@ -1,0 +1,159 @@
+body {
+    background: #fff;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+
+.intro-div {
+    height: 50%;
+    width: 50%;
+    margin-left: 10%;
+
+
+}
+
+
+#logo {
+    padding-left: 1em;
+    ;
+}
+
+.paragraph-section {
+    padding-top: 5em;
+    font-size: 1.5em;
+}
+
+.paragraph-section h1 {}
+
+
+
+
+.paragraph-section span {
+    color: white;
+    background-color: black;
+    padding: 0.75em;
+    border-radius: 50%;
+    margin-right: 3em
+}
+
+.paragraph-section #first-paragraph {
+    display: contents;
+
+}
+
+.paragraph-section #last-paragraph {
+    display: table-caption;
+    color: gray;
+    font-size: 0.75em;
+    display: block;
+
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+
+    max-width: 12em;
+    line-height: 1.8em;
+    width: 20%;
+}
+
+
+
+
+.button-section a {
+    ;
+    /* Green */
+    padding-top: 5em;
+}
+
+.button-section a {
+    margin-left: 5em;
+    text-decoration-line: none;
+    color: darkgray;
+}
+
+.button-section Button {
+    color: white;
+    background-color: tomato;
+    border-radius: 20%;
+    padding: 2em;
+
+}
+
+
+/* The first section art divs */
+
+
+
+.art-div {
+
+    position: fixed;
+    left: 40%;
+    top: 20%;
+}
+
+.art-div img {
+    width: 80%;
+    height: auto;
+}
+
+.art-div ul {
+    position: fixed;
+    top: 1%;
+}
+
+.art-div ul li {
+    display: inline;
+    float: left;
+    padding-left: 2em;
+    padding-right: 2em;
+    color: black;
+    font-weight: bold;
+
+}
+
+.art-div ul li a {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: black;
+
+}
+
+.art-div ul li a:hover {
+    background-color: rgb(151, 194, 223);
+
+}
+
+
+.art-div .dotted-circle {}
+
+.art-div .login-grey {
+    color: darkgray;
+    padding-left: 5em;
+}
+
+
+
+/* the second section background gris*/
+.art-background {
+    background-color: lightgray;
+    width: 60%;
+    height: 40%;
+    position: absolute;
+    top: 0%;
+    right: 1%;
+    border-bottom-left-radius: 3em;
+
+}
+
+.art-div ul li {
+
+    float: right;
+    margin-top: 5px;
+
+}
+
+.art-div ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 21px;
